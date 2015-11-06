@@ -4,5 +4,7 @@ package GitPackage
     end B;
     model C
     end C;
+    model D
+    end D;
   end A;
 end GitPackage;

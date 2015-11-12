@@ -1,4 +1,5 @@
 package GitPackage
+  annotation(version="1.0$Id$");
   package A
     model B
     end B;
